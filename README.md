@@ -6,4 +6,4 @@
 
 # Credits
 
-(Asaad ziad)[https://github.com/asaadziad]
+[Asaad ziad](https://github.com/asaadziad)
